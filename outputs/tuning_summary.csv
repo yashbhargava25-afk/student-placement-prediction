@@ -1,0 +1,4 @@
+model,best_params,best_cv_f1
+Logistic Regression,"{'model__C': 1.0, 'model__penalty': 'l2', 'model__solver': 'lbfgs'}",0.668114317648795
+Decision Tree,"{'model__criterion': 'gini', 'model__max_depth': 5, 'model__min_samples_leaf': 1, 'model__min_samples_split': 2}",0.9996233521657251
+Random Forest,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__n_estimators': 50}",0.9992438563327031
